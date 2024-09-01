@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-cards/1-seeds/data-architecture/","tags":[null],"created":"September 1st 2024 | 18:46","updated":"September 1st 2024 | 18:46"}
+{"dg-publish":true,"permalink":"/100-cards/1-seeds/data-architecture/","tags":["#tag1","#tag2"],"created":"2024-09-01T19:22:20+02:00","updated":"2024-09-01T19:29:39+02:00"}
 ---
 
 
@@ -8,6 +8,6 @@
 
 The data architecture defines the different Data stages along with the **schemas, integration, transformations, storage, and workflow required to enable the analytical requirements** of the information architecture.
 
-- [[Systems of Records\|Systems of Records]]
-- [[Systems of Integration\|Systems of Integration]]
-- [[Systems of Analytics\|Systems of Analytics]]
+- [[Old_Vault/200 Areas of Responsibility/Data Engineering/Public/Systems of Records\|Systems of Records]]
+- [[Old_Vault/200 Areas of Responsibility/Data Engineering/Public/Systems of Integration\|Systems of Integration]]
+- [[Old_Vault/200 Areas of Responsibility/Data Engineering/Public/Systems of Analytics\|Systems of Analytics]]

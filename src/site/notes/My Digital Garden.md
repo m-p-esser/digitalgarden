@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-digital-garden/","tags":["gardenEntry"],"updated":"2024-09-01T19:23:20+02:00"}
 ---
 
 
