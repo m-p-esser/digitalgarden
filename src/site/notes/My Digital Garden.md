@@ -3,6 +3,7 @@
 ---
 
 
+- [[100_Cards/1_Seeds/Data Architecture\|Data Architecture]]
 ## Topics
 
 List of notes below
