@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-cards/1-seeds/data-architecture/","tags":["#tag1","#tag2"],"created":"2024-09-01T19:22:20+02:00","updated":"2024-09-01T19:29:39+02:00"}
+{"dg-publish":true,"permalink":"/100-cards/1-seeds/data-architecture/","tags":["tag1","tag2"],"created":"2024-09-01T19:22:20+02:00","updated":"2024-09-01T19:32:24+02:00"}
 ---
 
 
